@@ -1,4 +1,2 @@
 # hello-world
-n
-
-im aditya
+yur
